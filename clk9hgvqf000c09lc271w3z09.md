@@ -3,6 +3,7 @@ title: "网络建设与运维第一套"
 datePublished: Wed Jul 19 2023 08:50:29 GMT+0000 (Coordinated Universal Time)
 cuid: clk9hgvqf000c09lc271w3z09
 slug: 572r57uc5bu66k65lio6lq57u056ys5lia5awx
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/oqStl2L5oxI/upload/398adbcb5a0ae808db83fb5669197d9a.jpeg
 tags: linux
 
 ---
